@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1477882294 source:e:\code\seq_align\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<cassert>
+	<algorithm>
+
