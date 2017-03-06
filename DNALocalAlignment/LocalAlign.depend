@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1488781500 source:e:\code\localalign\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<string>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<cassert>
+	<algorithm>
+	<vector>
+
