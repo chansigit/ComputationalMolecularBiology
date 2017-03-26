@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1489336896 source:e:\code\computationalmolecularbiology\bandeddpglobalalign\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<string>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<cassert>
+	<algorithm>
+	<vector>
+
