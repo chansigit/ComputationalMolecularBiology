@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1491824426 source:e:\code\computationalmolecularbiology\hashing\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<string>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<cassert>
+	<algorithm>
+	<vector>
+	<list>
+
